@@ -2,4 +2,14 @@ body{
     font-family: "Plus Jakarta Sans", sans-serif;
     background-color: rgb(204, 226, 247);
     color: rgb(252, 220, 240);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: rgb(135, 172, 241) ;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
 }
